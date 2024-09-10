@@ -1,5 +1,5 @@
 # Lab1 Exercise - mainApp1
-
+![](/Users/owenchung/Desktop/Screenshot 2024-09-10 at 3.43.43 PM.png)
 ## Overview
 `mainApp1` is a simple Java application that demonstrates basic mathematical operations, including calculating the power of a number and the factorial of a number using methods from the `myLibrary` class.
 
@@ -12,7 +12,6 @@
 - Java Development Kit (JDK) 8 or higher
 - Apache Maven
 - IntelliJ IDEA
-
 ## Installation
 1. Clone the repository or download the project files:
    ```bash
